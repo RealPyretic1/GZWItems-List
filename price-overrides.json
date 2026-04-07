@@ -114,5 +114,191 @@
   },
   "touchdown-lemon-soda": {
     "price": 3
+  },
+  "AK-74M": {
+    "price": 127
+  },
+  "Glock-17": {
+    "price": 76
+  },
+  "M210-C": {
+    "price": 45
+  },
+  "M4A1": {
+    "price": 153
+  },
+  "M9A1": {
+    "price": 61
+  },
+  "M870-Shotgun": {
+    "price": 51
+  },
+  "Remington-788": {
+    "price": 112
+  },
+  "SA-vz.-58": {
+    "price": 90
+  },
+  "SIG-MCX": {
+    "price": 357
+  },
+  "SKS": {
+    "price": 127
+  },
+  "Type-51": {
+    "price": 45
+  },
+  "AK-74M-Polymer-Stock": {
+    "price": 56
+  },
+  "AK-MOE-Stock": {
+    "price": 33
+  },
+  "AR-15-MOE-Stock": {
+    "price": 61
+  },
+  "M4-Buffer-Tube": {
+    "price": 91
+  },
+  "M4-Standard-Buttstock": {
+    "price": 107
+  },
+  "MCX-Telescoping-Stock": {
+    "price": 127
+  },
+  "MPX-Telescoping-Stock": {
+    "price": 127
+  },
+  "Remington-788-Stock": {
+    "price": 81
+  },
+  "SKS-Stock": {
+    "price": 76
+  },
+  "AR-15-Barrel-10.5": {
+    "price": 214
+  },
+  "Glock-17-Standard-Barrel": {
+    "price": 96
+  },
+  "M210-C-Barrel-4.6": {
+    "price": 61
+  },
+  "M870-Barrel-18.5": {
+    "price": 91
+  },
+  "Remington-788-Barrel-22": {
+    "price": 96
+  },
+  "SA-vz.-58-390": {
+    "price": 163
+  },
+  "SIG-MCX-Barrel-6.75": {
+    "price": 306
+  },
+  "Type-51-Barrel": {
+    "price": 66
+  },
+  "CQA1-Upper-Reciver": {
+    "price": 127
+  },
+  "M4-Upper-Reciver": {
+    "price": 127
+  },
+  "MP5-Upper-Reciver": {
+    "price": 86
+  },
+  "SIG-MCX-Upper-Reciver": {
+    "price": 280
+  },
+  "AMP12": {
+    "price": 242
+  },
+  "C2-Combat-Bag": {
+    "price": 129
+  },
+  "Patrol-Backpack": {
+    "price": 225
+  },
+  "Scorpion-ocp-convoy-Pack": {
+    "price": 195
+  },
+  "Rush-72": {
+    "price": 375
+  },
+  "Civilian-Leather-Fanny-Pack": {
+    "price": 29
+  },
+  "Civilian-Sports-Fanny-Pack": {
+    "price": 20
+  },
+  "Leather-Belt": {
+    "price": 24
+  },
+  "MC50-Laser-Eddition": {
+    "price": 60
+  },
+  "Tactical-Belt": {
+    "price": 25
+  },
+  "6B23-1": {
+    "price": 130
+  },
+  "Commander": {
+    "price": 91
+  },
+  "Covert-Tactical-Body-Armor": {
+    "price": 101
+  },
+  "CZ-VIP": {
+    "price": 121
+  },
+  "Molle-Vest": {
+    "price": 90
+  },
+  "AMP-1-TP-MC": {
+    "price": 275
+  },
+  "MICH-LC": {
+    "price": 186
+  },
+  "MICH-TC-2000-Black": {
+    "price": 246
+  },
+  "MICH-TC-200-Green": {
+    "price": 195
+  },
+  "MICH-TC-2002-Black": {
+    "price": 256
+  },
+  "PASGT": {
+    "price": 150
+  },
+  "Skull-Crusher": {
+    "price": 31
+  },
+   "F-1-Hand-Grenade": {
+    "price": 22
+  },
+  "M18-Smoke-Grenade": {
+    "price": 11
+  },
+  "M26": {
+    "price": 18
+  },
+  "M67": {
+    "price": 18
+  },
+  "M84-Stun-Grenade": {
+    "price": 10
+  },
+  "RDG-5": {
+    "price": 14
+  },
+  "Golden-Boy's-Colt-1911": {
+    "price": 500
+  },
+  "Viper's-Modular-Operator-Carrier-Gen-II": {
+    "price": 688
   }
 }
